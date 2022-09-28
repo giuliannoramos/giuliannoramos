@@ -4,18 +4,17 @@
 
 </div>
 
-  <br> 
-  <br>
-  
+<br>
+
   **<h2>About me:</h2>**
   <div align=left>
         <br>        
-        <ul>
+        <ul>        
             <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/MyPromo21/MyPromo21_Api">MyPromo</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity.<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></li>
             <li>😄 <b>Fun fact</b>: I love Surfing(🏄), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me on the links below👇, in addition to follow me here</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me on the links below👇, in addition to follow me here.</li>
         </ul>
     </div>
   
@@ -27,11 +26,11 @@
     
   [![LinkedIn Badge](https://img.shields.io/badge/-Giulianno_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-giuleramos@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:giuleramos@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-giulianno_ramos-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp; 
+  [![Instagram Badge](https://img.shields.io/badge/-giulianno_ramos-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp;
+  <a href="https://wa.me/047997275160"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
 </div>
 
-<br>
 <br>
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
@@ -64,12 +63,10 @@
 
 </div>
 
-<br>
-   
+<br>   
 
   <div align="center">
   <b style = {font-weight: 600}>Visitors Count</b>
   
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{giuliannoramos}/count.svg" /></p>
   <br>
-
