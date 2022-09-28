@@ -8,7 +8,8 @@
 
   **<h2>About me:</h2>**
   <div align=left>
-  <img src="https://user-images.githubusercontent.com/104398159/192694431-d512324b-8ff4-4ee1-9187-b71689c5dde4.PNG" min-width="300px" max-width="300px" width="250px" align="right" alt="Computador iuriCode">
+        <br>
+        <img src="https://user-images.githubusercontent.com/104398159/192694431-d512324b-8ff4-4ee1-9187-b71689c5dde4.PNG" min-width="300px" max-width="300px" width="250px" align="right" alt="Computador">
         <br>        
         <ul>        
             <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
