@@ -8,13 +8,13 @@
 
   **<h2>About me:</h2>**
   <div align=left>
-  <img src="https://user-images.githubusercontent.com/104398159/192694431-d512324b-8ff4-4ee1-9187-b71689c5dde4.PNG" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador iuriCode">
+  <img src="https://user-images.githubusercontent.com/104398159/192694431-d512324b-8ff4-4ee1-9187-b71689c5dde4.PNG" min-width="300px" max-width="300px" width="250px" align="right" alt="Computador iuriCode">
         <br>        
         <ul>        
             <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/MyPromo21/MyPromo21_Api">MyPromo</a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></li>
-            <li>😄 <b>Fun facts</b>: I love Surfing(🏄), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
+            <li>😄 <b>Fun facts</b>: I love Surfing(🏄‍♂️), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me on the links below👇, in addition to follow me here.</li>
         </ul>
     </div>
@@ -41,15 +41,11 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <div align=center>
-        <h1>Atividade de Contribuição</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=giuliannoramos&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="150" />
-        <!--
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliannoramos&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="150" />
-        <br>
-        -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuliannoramos&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="150" />        
-        <br>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannoramos&layout=compact&langs_count=7&theme=dark"/>
+        <h1>Atividade de Contribuição</h1>  
+        <br>  
+        <img src="https://github-readme-stats.vercel.app/api?username=giuliannoramos&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="150" />   
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuliannoramos&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="150" />       
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannoramos&layout=compact&langs_count=7&theme=dark" align=center />
         <br>        
     </div>
   
