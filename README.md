@@ -14,7 +14,7 @@
             <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/MyPromo21/MyPromo21_Api">MyPromo</a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></li>
-            <li>😄 <b>Fun fact</b>: I love Surfing(🏄), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
+            <li>😄 <b>Fun facts</b>: I love Surfing(🏄), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me on the links below👇, in addition to follow me here.</li>
         </ul>
     </div>
