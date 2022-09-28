@@ -8,6 +8,7 @@
 
   **<h2>About me:</h2>**
   <div align=left>
+  <img src="https://user-images.githubusercontent.com/104398159/192694431-d512324b-8ff4-4ee1-9187-b71689c5dde4.PNG" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador iuriCode">
         <br>        
         <ul>        
             <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
@@ -23,7 +24,7 @@
   <div>
 
   ## 📫 &nbsp;My Contacts
-    
+  
   [![LinkedIn Badge](https://img.shields.io/badge/-Giulianno_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-giuleramos@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:giuleramos@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-giulianno_ramos-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp;
