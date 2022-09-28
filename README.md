@@ -27,8 +27,8 @@
   
   [![LinkedIn Badge](https://img.shields.io/badge/-Giulianno_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-giuleramos@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:giuleramos@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-giulianno_ramos-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp;
-  <a href="https://wa.me/047997275160"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  [![Instagram Badge](https://img.shields.io/badge/-giulianno__ramos-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp; 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/047997275160/)&nbsp;
 
 </div>
 
