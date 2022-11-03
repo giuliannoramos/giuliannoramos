@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Giulianno+Ramos+%F0%9F%8D%B7+%F0%9F%97%BF;%F0%9F%8E%93+Entra21+-+Csharp+turma+2022+%F0%9F%8E%93" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=84AE84&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Giulianno+Ramos+%F0%9F%8D%B7+%F0%9F%97%BF;%F0%9F%8E%93+Entra21+-+Csharp+turma+2022+%F0%9F%8E%93" alt="Headline" />
     </div>
 
 </div>
@@ -13,7 +13,7 @@
         <br>        
         <ul>        
             <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/MyPromo21/MyPromo21_Api">MyPromo</a>.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/MyPromo21/MyPromo21_Api">MyPromo</a>, a personal project 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.<img                                   src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></li>
             <li>😄 <b>Fun facts</b>: I love Surfing(🏄‍♂️), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me on the links below👇, in addition to follow me here.</li>
