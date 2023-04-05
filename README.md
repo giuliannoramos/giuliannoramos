@@ -1,22 +1,22 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=84AE84&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Giulianno+Ramos;%F0%9F%8E%93+Entra21+-+Csharp+turma+2022+%F0%9F%8E%93" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=8FBC8F&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Me+chamo+Giulianno+L.+Ramos!;%F0%9F%8E%93+Entra21+-+Csharp+turma+2022+%F0%9F%8E%93" alt="Headline" />
     </div>
 
 </div>
 
 <br>
 
-  **<h2>About me:</h2>**
+  **<h2>Sobre mim:</h2>**
   <div align=left>
-        <br>
-        <img src="https://user-images.githubusercontent.com/104398159/192694431-d512324b-8ff4-4ee1-9187-b71689c5dde4.PNG" min-width="300px" max-width="300px" width="250px" align="right" alt="Computador">
         <br>        
-        <ul>        
-            <li>🌱 <b>I’m currently learning</b>: Full stack development.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/giuliannoramos/Desafio">Desafio</a>, a personal project 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity.<img                                   src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></li>
-            <li>😄 <b>Fun facts</b>: I love Surfing(🏄‍♂️), Codeing(💻), Traveling(🌍), and Coffee(☕).</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me on the links below👇, in addition to follow me here.</li>
+        <img src="https://user-images.githubusercontent.com/104398159/229950563-4adf5595-eba3-4ca5-9296-1b539ac2ee81.png" min-width="300px" max-width="300px" width="250px" align="right" alt="Computador">
+        <br>        
+        <ul>
+            <li>😄 <b>Algumas curiosidades</b>: Eu amo surfar(🏄‍♂️), programar(👨🏼‍💻), viajar(🌍) e café(☕).</li>
+            <li>🌱 <b>Atualmente estou buscando aprender tudo relacionado a Engenharia de Software.</li>
+            <li>🎯 <b>Atual projeto para estudo pessoal ⇨ <a href="https://github.com/giuliannoramos/Desafio">Desafio</a>🤩.</li>            
+            <li>💻 <b>Estou aberto a uma nova oportunidade de trabalho🤝.</li>            
+            <li>📫 <b>Entre em contato comigo através dos links abaixo👇.</li>
         </ul>
     </div>
   
@@ -24,7 +24,7 @@
   
   <div>
 
-  ## 📫 &nbsp;My Contacts
+  ## 📫 Meus contatos
   
   [![LinkedIn Badge](https://img.shields.io/badge/-Giulianno_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-giuleramos@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:giuleramos@gmail.com)&nbsp;
@@ -35,11 +35,11 @@
 
 <br>
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Status de perfil do GitHub 
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b> Clique aqui para expandir</b></summary>
   <br/>
   <div align=center>
         <h1>Atividade de Contribuição</h1>  
