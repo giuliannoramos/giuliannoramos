@@ -13,10 +13,10 @@
         <br>        
         <ul>
             <li>😄 <b>Algumas curiosidades</b>: Eu amo surfar(🏄‍♂️), programar(👨🏼‍💻), viajar(🌍) e café(☕).</li>
-            <li>🌱 <b>Atualmente estou buscando aprender tudo relacionado a Engenharia de Software.</li>
-            <li>🎯 <b>Atual projeto para estudo pessoal ⇨ <a href="https://github.com/giuliannoramos/Desafio">Desafio</a>🤩.</li>            
-            <li>💻 <b>Estou aberto a uma nova oportunidade de trabalho🤝.</li>            
-            <li>📫 <b>Entre em contato comigo através dos links abaixo👇.</li>
+            <li>🌱 Atualmente estou buscando aprender tudo relacionado à engenharia de software.</li>
+            <li>🎯 Atual projeto para estudo pessoal ⇨ <a href="https://github.com/giuliannoramos/Desafio">Desafio</a>🤩.</li>            
+            <li>💻 Estou aberto a uma nova oportunidade de trabalho🤝.</li>            
+            <li>📫 Entre em contato comigo através dos links abaixo👇.</li>
         </ul>
     </div>
   
