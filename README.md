@@ -33,12 +33,16 @@
 
 </div>
 
-<br>
+<!--<br>
 
-<!--<div>
+<div>
 
 ## 🌐 Tecnologias
 
+![dotnet](https://user-images.githubusercontent.com/104398159/232614210-4ca61613-4ca2-40a9-be09-26085afb3bed.png)
+![csharp](https://user-images.githubusercontent.com/104398159/232614245-9b1e1ad5-3359-48da-9e38-3dd87bfc4024.png)
+![javascript](https://user-images.githubusercontent.com/104398159/232614279-6d7ea737-5fd1-4a73-90fd-fc4d80ceceeb.png)
+![git](https://user-images.githubusercontent.com/104398159/232614357-cc136f64-3493-4df6-baf9-055d81176fbd.png)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
