@@ -18,7 +18,7 @@
             <li>💻 Estou aberto a uma nova oportunidade de trabalho🤝;</li>            
             <li>📫 Entre em contato comigo através dos links abaixo👇.</li>
         </ul>
-    </div>
+   </div>
   
   <br>
   
@@ -29,27 +29,27 @@
   [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:giuleramos@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/Instagram-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp; 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/047997275160/)&nbsp;
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/047997275160/)&nbsp;
 
 </div>
 
-<!--<br>
+<br>
 
 <div>
 
 ## 🌐 Tecnologias
 
-![dotnet](https://user-images.githubusercontent.com/104398159/232614210-4ca61613-4ca2-40a9-be09-26085afb3bed.png)
-![csharp](https://user-images.githubusercontent.com/104398159/232614245-9b1e1ad5-3359-48da-9e38-3dd87bfc4024.png)
-![javascript](https://user-images.githubusercontent.com/104398159/232614279-6d7ea737-5fd1-4a73-90fd-fc4d80ceceeb.png)
-![git](https://user-images.githubusercontent.com/104398159/232614357-cc136f64-3493-4df6-baf9-055d81176fbd.png)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=.net)
-![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-black?style=flat-square&logo=microsoftsqlserver)
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://www.w3schools.com/js/default.asp" title="Javascript"><img src="icons/javascript.png" /></a>
+<a href="https://www.microsoft.com/sql-server/" title="Sql Server"><img src="icons/sqlserver.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="icons/vstudio.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
 
-</div>-->
+</div>
 
 <br>
 
