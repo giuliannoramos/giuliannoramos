@@ -26,10 +26,15 @@
 
   ## 📫 Meus contatos
   
-  [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
+  <a href="https://www.linkedin.com/in/giulianno-ramos/" title="Linkedin"><img src="icons/linkedin.png" /></a>
+  <a href="mailto:giuleramos@gmail.com" title="Gmail"><img src="icons/gmail.png" /></a>
+  <a href="https://www.instagram.com/giulianno_ramos/" title="Instagram"><img src="icons/instagram.png" /></a>
+  <a href="https://wa.me/047997275160/" title="Whatsapp"><img src="icons/whatsapp.png" /></a>
+  
+  <!--[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianno-ramos/)](https://www.linkedin.com/in/giulianno-ramos-22a66313a/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:giuleramos@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/Instagram-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/giulianno_ramos/)&nbsp; 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/047997275160/)&nbsp;
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/047997275160/)&nbsp;-->
 
 </div>
 
