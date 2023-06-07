@@ -67,9 +67,9 @@
   <div align=center>
         <h1>Atividade de Contribuição</h1>  
         <br>  
-        <img src="https://github-readme-stats.vercel.app/api?username=giuliannoramos&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="150" />   
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuliannoramos&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="150" />       
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannoramos&layout=compact&langs_count=7&theme=dark" align=center />
+        <img src="https://github-readme-stats.vercel.app/api?username=giuliannoramos&show_icons=true&theme=dark&title_color=6FDA44&text_color=FFFFFF&icon_color=6FDA44" alt="GitHub Stats" height="150"/> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuliannoramos&theme=dark&mode=weekly&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="150"/>          
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannoramos&layout=compact&langs_count=7&theme=dark" align=center/>
         <br>        
    </div>   
 
