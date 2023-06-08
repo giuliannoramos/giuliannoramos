@@ -53,6 +53,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
+<a href="https://www.PostgreSQL.com/" title="PostgreSQL"><img src="icons/PostgreSQL.png" /></a>
 
 </div>
 
