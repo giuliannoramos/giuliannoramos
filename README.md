@@ -48,12 +48,12 @@
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://www.w3schools.com/js/default.asp" title="Javascript"><img src="icons/javascript.png" /></a>
 <a href="https://www.microsoft.com/sql-server/" title="Sql Server"><img src="icons/sqlserver.png" /></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/PostgreSQL.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="icons/vstudio.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/PostgreSQL.png" /></a>
 
 </div>
 
