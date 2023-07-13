@@ -12,11 +12,10 @@
         <img src="https://user-images.githubusercontent.com/104398159/229950563-4adf5595-eba3-4ca5-9296-1b539ac2ee81.png" min-width="300px" max-width="300px" width="250px" align="right" alt="Computador">
         <br>        
         <ul>
-            <li>😄 <b>Algumas curiosidades</b>: Eu amo surfar(🏄‍♂️), programar(👨🏼‍💻), viajar(🌍) e café(☕);</li>
-            <li>🌱 Atualmente estou buscando aprender tudo relacionado à engenharia de software;</li>
-            <li>🎯 Atual projeto para estudo pessoal ⇨ <a href="https://github.com/giuliannoramos/Desafio">Desafio</a>🤩;</li>            
-            <li>💻 Estou aberto a uma nova oportunidade de trabalho🤝;</li>            
-            <li>📫 Entre em contato comigo através dos links abaixo👇.</li>
+            <li>😄 Sou um entusiasta da programação (👨🏼‍💻), apaixonado por surf (🏄‍♂️), viagens (🌍) e café (☕);</li>
+            <br><li>🌱 Atualmente estou focado em aprofundar meus conhecimentos em, Construção de Web APIs, OOP, SOLID, Clean Code, Padrões de arquitetura (Clean Architecture, CQRS) e Banco de dados relacional (Entity Framework, PostgreSQL);</li>
+            <br><li>🚀 Estou em busca de novas oportunidades para me desenvolver profissionalmente e aplicar meus conhecimentos em projetos reais;</li>        
+            <br><li>📫 Fique à vontade para entrar em contato comigo pelos links abaixo 👇.</li>
         </ul>
    </div>
   
